@@ -9,14 +9,22 @@ function App() {
         <Weather defaultCity="New York" />
         <br />
         <footer>
+          This project was coded by Kalkidan Mulugeta Diro and is{" "}
           <a
             href="https://github.com/KalkM/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
-            open source code
+            open-sourced
           </a>{" "}
-          by Kalkidan Mulugeta Diro
+          on GitHub and{" "}
+          <a
+            href="https://aquamarine-queijadas-8dc210.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>
